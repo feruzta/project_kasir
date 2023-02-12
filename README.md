@@ -14,7 +14,7 @@ Aplikasi kasir sederhana dengan menggunakan bahasa pemrograman Python tanpa terh
 4. Mengaplikasikan penulisan kode yang bersih (clean code).
 
 # Alur Program
-a.	Membuat class Transaction() yang kemudian dapat diakses dengan memasukkan transaksi_n = Transaction(). Kemudian, diberikan metode untuk inisialisasi list awal dengan atribut data_transaksi.  
+a.	Membuat class Transaction() yang kemudian dapat diakses dengan memasukkan trnsct_123 = Transaction(). Kemudian, diberikan metode untuk inisialisasi list awal dengan atribut data_transaksi.  
 
 b.	Membuat metode add_item([<nama_item>, <jumlah_item>, <harga_item>]). Fungsi yang digunakan berupa .append ke dalam list data_transaksi.  
 
